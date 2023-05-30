@@ -1,1 +1,1 @@
-All assignments related to data anlytics are uploaded here
+All assignments related to data analytics are uploaded here
